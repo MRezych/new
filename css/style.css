@@ -1,0 +1,22 @@
+header {
+  background-color: #000;
+}
+
+h1 {
+  color: green;
+}
+
+body {
+  font-size: 20px;
+}
+
+body div {
+  font-size: 10px;
+}
+
+.block {
+}
+.block__ {
+}
+.block__item {
+}
